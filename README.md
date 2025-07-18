@@ -13,24 +13,28 @@ Visit the application at: `http://localhost:5173` (when running locally)
 ## ✨ Key Features
 
 ### 👥 **Multiple Expert Mentors**
+
 - **Dr. Sarah Johnson** (Google) - Career Development & Leadership
-- **Michael Chen** (Meta) - Full Stack Development & Startups  
+- **Michael Chen** (Meta) - Full Stack Development & Startups
 - **Emily Rodriguez** (Adobe) - UX/UI Design & Design Systems
 - **David Kim** (Microsoft) - Data Science & Machine Learning
 
 ### 📅 **Smart Booking System**
+
 - Interactive mentor selection with detailed profiles
 - Real-time availability checking
 - Mentor-specific time slot filtering
 - Professional booking form with message support
 
 ### 🎨 **Modern Design**
+
 - Beautiful hero section with gradient backgrounds
 - Professional mentor cards with ratings and pricing
 - Smooth animations and transitions
 - Fully responsive design for all devices
 
 ### 🛠️ **Mentor Dashboard**
+
 - Complete booking management system
 - Approve/reject booking requests
 - View student details and messages
@@ -72,28 +76,33 @@ mentorship-booking-app/
 ## 🚀 Getting Started
 
 ### Prerequisites
+
 - Node.js (v14 or higher)
 - npm or yarn
 
 ### Installation
 
 1. **Clone the repository**
+
    ```bash
    git clone https://github.com/Geetarthjain15/Freecommers_project.git
    cd Freecommers_project
    ```
 
 2. **Navigate to the project**
+
    ```bash
    cd mentorship-booking-app
    ```
 
 3. **Install dependencies**
+
    ```bash
    npm install
    ```
 
 4. **Start development server**
+
    ```bash
    npm run dev
    ```
@@ -115,6 +124,7 @@ npm run lint     # Run ESLint
 ## 🎯 How to Use
 
 ### Student Experience:
+
 1. Browse the hero section with feature highlights
 2. Select from 4 expert mentors with detailed profiles
 3. Choose available time slots for your selected mentor
@@ -122,6 +132,7 @@ npm run lint     # Run ESLint
 5. Submit booking request for mentor approval
 
 ### Mentor Experience:
+
 1. Switch to "Mentor View" in the header
 2. Review all incoming booking requests
 3. See student details, messages, and session info
@@ -138,6 +149,7 @@ npm run lint     # Run ESLint
 ## 🔧 Development
 
 The project uses modern React patterns:
+
 - Functional components with hooks
 - Context API for state management
 - Custom hooks for reusable logic
@@ -165,6 +177,7 @@ This project is part of the Freecommers internship program.
 ## 👨‍💻 Author
 
 **Geetarth Jain**
+
 - GitHub: [@Geetarthjain15](https://github.com/Geetarthjain15)
 - Email: geetarth.jain.ug23@nsut.ac.in
 
